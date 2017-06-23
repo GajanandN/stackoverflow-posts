@@ -1,3 +1,5 @@
+# this script is scraping data from www.stackoverflow.com, which is only for educational proposes.
+
 import requests
 import sys
 from bs4 import BeautifulSoup
